@@ -1,3 +1,4 @@
+[![Docker Repository on Quay](https://quay.io/repository/ahappypie/sql-snowflake/status "Docker Repository on Quay")](https://quay.io/repository/ahappypie/sql-snowflake)
 # sql-snowflake
 Move SQL objects from your database to a Snowflake table. Uses S3 to stage files.
 
